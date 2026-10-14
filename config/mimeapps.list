@@ -1,0 +1,5 @@
+[Default Applications]
+application/x-ipynb+json=code.desktop
+
+[Added Associations]
+application/x-ipynb+json=code.desktop;

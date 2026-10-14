@@ -1,0 +1,11 @@
+[FileDialogSize]
+1920x1080 screen: Window-Maximized=true
+
+[Recent Dirs]
+KdenliveClipFolder[$e]=$HOME/Downloads/,$HOME/Videos,$HOME/Documents
+
+[UiSettings]
+ColorSchemePath=BreezeDark.colors
+
+[version]
+version=25.08.3
